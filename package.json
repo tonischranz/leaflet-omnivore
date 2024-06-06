@@ -51,7 +51,7 @@
     "csv2geojson": "~5.0.0",
     "togeojson": "0.13.0",
     "corslite": "0.0.7",
-    "wellknown": "0.4.2",
+    "wellknown": "0.5.0",
     "brfs": "1.4.3",
     "topojson": "1.6.26",
     "polyline": "0.2.0"
